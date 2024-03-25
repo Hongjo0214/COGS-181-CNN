@@ -1,0 +1,1 @@
+This project was for COGS 181 course in UCSD. It aims to tune the best hyper-parameters for the ResNet and GoogLeNet architectures using the Cifar-10 dataset. This code includes skeletonized code from one of the homeworks in the course.
